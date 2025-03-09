@@ -22,3 +22,6 @@ tools that may help is :
 2. reframe the questions to be more direct and answer them one by one, refrain from super broad questions
 3. make something to present it, on the CAPSTONE day
 4. get to see oppourtunities in this area
+
+
+# Ramadan Kareem 🌙
