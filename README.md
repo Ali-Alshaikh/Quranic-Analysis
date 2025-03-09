@@ -25,11 +25,11 @@ tools that may help is :
 
 
 # ChatGPT SUGGESTIONS
-	1.	Use `PyQuran` to retrieve and analyze Quranic text. - EXPLORE THIS
-	2.	Apply `vector embeddings` to create a `semantic search engine` for `Quranic words/phrases.` - HOW ? AWD ? BERT ? 
-	3.	Perform semantic analysis to understand deeper meanings of Quranic verses. - HOW ? 
-	4.	Scrape Sistani’s website to compare Islamic rulings with Quranic references.
-	5.	Use `RAG` to build an AI-powered Quran Q&A chatbot that ensures Quran-only answers. - THIS I DON'T KNOW HOW TO DO IT
+1. Use `PyQuran` to retrieve and analyze Quranic text. - EXPLORE THIS
+2. Apply `vector embeddings` to create a `semantic search engine` for `Quranic words/phrases.` - HOW ? AWD ? BERT ?
+3. Perform semantic analysis to understand deeper meanings of Quranic verses. - HOW ?
+4. Scrape Sistani’s website to compare Islamic rulings with Quranic references.
+5. Use `RAG` to build an AI-powered Quran Q&A chatbot that ensures Quran-only answers. - THIS I DON'T KNOW HOW TO DO IT
 
 
 # Ramadan Kareem 🌙
